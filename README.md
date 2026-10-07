@@ -1,8 +1,9 @@
-![Auto Assign](https://github.com/Companion-AI-Agent-Demo/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# Welcome to my Companion-AI-Agent-Demo organization
 
-![Proof HTML](https://github.com/Companion-AI-Agent-Demo/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+This is a simple intro repo. you may also join by posting an issue with your username/mail address
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+Goal: This organization is for maintaining the credentials of my accompany-ai-agent project before it's enabled for any kind of publications
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Status: Simple demo, not fully optimized
+
+Update time of this page: 10/07/2026-2:54am-(UTC-4) 
