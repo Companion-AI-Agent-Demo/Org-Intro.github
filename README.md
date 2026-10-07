@@ -1,4 +1,9 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to my Companion-AI-Agent-Demo organization
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+This is an simple intro repo
+
+Goal: This organization is for maintaining the credentials of accompany-ai-agent project before it's enabled for any kind of publications
+
+Status: Simple demo, not fully optimized
+
+Update time of this page: 10/07/2026-2:27am-(UTC-4) 
